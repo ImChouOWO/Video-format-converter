@@ -3,7 +3,7 @@
 透過PYQT5與Gstreamer所製成的簡易影片格式轉換器
 
 
-`#### Gstreamer install`
+`####Gstreamer install`
 
 Linux (Ubuntu/Debian) install by apt-get
 
