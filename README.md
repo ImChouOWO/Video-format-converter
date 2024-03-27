@@ -34,3 +34,8 @@ pip install PyGObject
 Windows用戶可以從GStreamer的官方網站下載安裝包。
 
 
+### demo
+
+![測試畫面](https://github.com/ImChouOWO/Video-format-converter/blob/main/pic/demo.png)
+
+
