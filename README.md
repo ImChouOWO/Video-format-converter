@@ -4,6 +4,12 @@
 
 [學習筆記](https://www.notion.so/Gstreamer-ec24c78e1e3e485ca2afd81c5dfa57e6?pvs=4)
 
+#### PYQT5 install by pipinstall
+
+```
+pip install PyQt5
+```
+
 #### Gstreamer install
 
 Linux (Ubuntu/Debian) install by apt-get
@@ -24,6 +30,7 @@ brew install gstreamer gst-plugins-base gst-plugins-good gst-plugins-bad gst-plu
 ```
 
 以python開發
+install by pipinstall
 
 ```
 pip install PyGObject
